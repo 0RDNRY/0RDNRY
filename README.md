@@ -11,7 +11,11 @@
 
 - 💬 Ask me about **tech ops, design, media**
 
-- 📫 How to reach me **sidsw6rk@gmail.com**
+- 📫 Reach me at **sidsw6rk@gmail.com**
+
+Currently focused on building and shipping complete projects.
+Actively developing core CS fundamentals and systems-level skills.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
