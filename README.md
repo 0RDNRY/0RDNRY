@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sid</h1>
+<h1 align="center">👽 I'm Sid</h1>
 <h3 align="center">Building things at the intersection of tech, systems, and clean design.</h3>
 
 - 🔭 I’m currently working on **AI Automation Pipelines**
